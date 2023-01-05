@@ -1,4 +1,4 @@
-#!usr/bin/env python3
+#!/usr/bin/env python3
 """Using mypy to refactor code"""
 from typing import Tuple, List
 
